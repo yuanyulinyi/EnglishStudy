@@ -1,0 +1,17 @@
+illustrate
+imitate
+immune
+indicate
+indispensable
+industrial
+infer
+infinite
+inflation
+initial
+initiative
+inquire
+institute
+insult
+integrate
+interact
+invade

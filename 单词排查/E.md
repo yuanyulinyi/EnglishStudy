@@ -1,0 +1,17 @@
+efficient
+==elaborate==
+elbow
+eliminate
+embrace
+emit
+enclose
+engage
+enrol
+equivalent
+estate
+estimate
+evaluate
+exaggerate
+exert
+exhaust
+extent

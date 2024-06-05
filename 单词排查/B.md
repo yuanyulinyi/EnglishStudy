@@ -1,0 +1,5 @@
+[beam (youdao.com)](https://dict.youdao.com/result?word=beam&lang=en)
+[blame (youdao.com)](https://dict.youdao.com/result?word=blame&lang=en)
+[blank (youdao.com)](https://dict.youdao.com/result?word=blank&lang=en)
+[boom (youdao.com)](https://dict.youdao.com/result?word=boom&lang=en)
+[brand (youdao.com)](https://dict.youdao.com/result?word=brand&lang=en)

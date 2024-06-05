@@ -1,0 +1,9 @@
+facilitate
+facility
+faculty
+fancy
+fare
+fatal
+feasible
+forum
+frank

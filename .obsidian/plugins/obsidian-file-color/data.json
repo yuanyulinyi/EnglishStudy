@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "fVwCyixCdahRZERBRyJQU",
+      "name": "purple",
+      "value": "#9873f7"
+    },
+    {
+      "id": "IWKK0d566qZPPTEp5CEQ5",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "单词排查",
+      "color": "fVwCyixCdahRZERBRyJQU"
+    }
+  ]
+}

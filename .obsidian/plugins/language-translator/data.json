@@ -1,0 +1,17 @@
+{
+  "targetLanguage": {
+    "text": "Chinese Simplified",
+    "code": "zh-Hans"
+  },
+  "apiType": {
+    "text": "Builtin",
+    "value": "0"
+  },
+  "translateApiUrl": "http://fanyi.youdao.com/translate",
+  "maxCharacters": 2000,
+  "token": "",
+  "region": {
+    "text": "Global",
+    "code": "global"
+  }
+}

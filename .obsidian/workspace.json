@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "cfe82cc07de5eaba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d097f737d178f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12087ca0e0f6d74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单词排查/O.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28696e71d7042f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "89ec67f112943062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a2645942c5839d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5feb2113658218e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b75dd8e8e4bb2fb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f273752cd2fdbbca",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc72b321ba791757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f99fd77a51b0124",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "单词排查/O.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af67f9ad17748b01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "单词排查/O.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04b8122928e60ab9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc7b3c7d0c5f56be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "单词排查/O.md"
+              }
+            }
+          },
+          {
+            "id": "3ebbd1dd754a93e0",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "900874d1d4e4b0e2",
+            "type": "leaf",
+            "state": {
+              "type": "langr-stat",
+              "state": {}
+            }
+          },
+          {
+            "id": "7988bec3694b0ba7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c17633de4cc5ad1a",
+            "type": "leaf",
+            "state": {
+              "type": "langr-learn-panel",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-language-learner:打开查词面板": false,
+      "obsidian-language-learner:打开新词面板": false,
+      "obsidian-language-learner:打开统计": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-language-learner:单词列表": false,
+      "pkmer:Open Pkmer Market": false
+    }
+  },
+  "active": "7a2645942c5839d1",
+  "lastOpenFiles": [
+    "gitignore.txt",
+    "gitgnore.txt",
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "单词排查/P.md",
+    "单词排查/Q.md",
+    "单词排查/R.md",
+    "翻译/光盘行动.md",
+    "单词排查/O.md",
+    "单词排查/N.md",
+    "Excalidraw/Drawing 2024-06-04 11.14.21.excalidraw.md",
+    "文章/1.md",
+    "文章/未命名.md",
+    "文章/2.md",
+    "日积累/2024-06-02.md",
+    "生词积累/生词.md",
+    "Excalidraw/Drawing 2024-06-04 16.44.02.excalidraw.md",
+    "单词排查/A.md",
+    "Excalidraw/文章2.md",
+    "未命名看板.md",
+    "单词排查/B.md",
+    "Fonts/Times New Roman.ttf",
+    "Fonts/HanYiXiXingKaiJian-1.ttf",
+    "Fonts",
+    "edadc7f985c5e750ae27f523ebf996ac.png",
+    "Excalidraw",
+    "单词排查/L.md",
+    "单词排查/M.md",
+    "单词排查/K.md",
+    "单词排查/J.md",
+    "单词排查/I.md",
+    "单词排查/H.md",
+    "Excalidraw/Drawing 2024-06-03 15.16.45.excalidraw.md",
+    "单词排查/未命名.canvas",
+    "未命名.canvas",
+    "刷题/2023.12.1.md",
+    "日积累",
+    "template",
+    "刷题",
+    "qwerty-learner-master/public/weChat-dev-group.jpg",
+    "qwerty-learner-master/public/favicon-16x16.png",
+    "qwerty-learner-master/public/favicon-32x32.png",
+    "qwerty-learner-master/node_modules/playwright-core/lib/server/chromium/appIcon.png",
+    "qwerty-learner-master/node_modules/xlsx/legend.png",
+    "qwerty-learner-master/node_modules/xlsx/formats.png",
+    "qwerty-learner-master/src/assets/sharePic/keyBackground.svg",
+    "qwerty-learner-master/src/assets/sharePic/image-9.png",
+    "qwerty-learner-master/src/assets/sharePic/image-8.png"
+  ]
+}

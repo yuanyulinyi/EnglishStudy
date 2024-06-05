@@ -1,0 +1,6 @@
+| Neglect      |     |
+| ------------ | --- |
+| Negotiate    |     |
+| Nevertheless |     |
+
+
